@@ -33,3 +33,5 @@ gita-summary
 ### Demo
 
 ![Screenshot of a comment gita summary](images/demo.png)
+
+Thanks [Bhagavad Gita API](https://bhagavadgitaapi.in/) for data.
