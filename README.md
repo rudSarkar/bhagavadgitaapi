@@ -23,7 +23,7 @@ You can use it inside `~/.zshrc`. If you are following first installation system
 bhagavadgitaapi
 ```
 
-If you are using manual method 'second step`copy the to any`bin`location on your system and add the binary to`~/.zshrc` at the end
+If you are using the manual method 'second step' copy the binary to any `bin` location on your system and add the binary to `~/.zshrc` at the end
 
 ```bash
 # other contents above
